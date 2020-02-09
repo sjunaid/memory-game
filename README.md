@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Memory Game
+
+## Instructions::
+A number of cards are placed face down in a grid in a random order. The cards have images on their face and the cards are in pairs, with each pair having the same image.
+Each turn the player turns over two cards. If they are a matching pair they remain face up. If they don’t match they are turned face down again.
+The game finishes when all the pairs have been removed.
+
 ## Available Scripts
 
 In the project directory, you can run:
