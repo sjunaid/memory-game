@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Memory Game
+## Memory Game version 1
 
 ## Instructions::
 A number of cards are placed face down in a grid in a random order. The cards have images on their face and the cards are in pairs, with each pair having the same image.
